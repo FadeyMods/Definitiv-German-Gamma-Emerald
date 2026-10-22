@@ -17,6 +17,7 @@ Smaragd-Edition von UndreamedPanic, so, als wäre es auf Deutsch erschienen.
 
 - **Windows** (64 Bit)
 - Ca. **1,5 GB** für den Download und etwas mehr freien Speicher zum Entpacken
+- Nichts weiter: Die Zip enthält das komplette Spiel (Gamma Emerald **1.13.1** von UndreamedPanic) auf Deutsch
 
 ## Installation
 
@@ -24,6 +25,9 @@ Smaragd-Edition von UndreamedPanic, so, als wäre es auf Deutsch erschienen.
    herunterladen.
 2. In einen beliebigen Ordner entpacken.
 3. Im entpackten Ordner die **`PokemonEmerald.exe`** starten und spielen.
+
+Spielstände liegen wie immer unter `%LOCALAPPDATA%\PokemonEmerald` und laufen weiter. Die Übersetzung ändert nur, was
+angezeigt wird – keine Namen und keine Schlüssel im Spielstand.
 
 Was sich in einer Version geändert hat, steht im jeweiligen
 [Release](https://github.com/FadeyMods/Definitiv-German-Gamma-Emerald/releases).
